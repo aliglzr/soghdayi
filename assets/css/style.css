@@ -1297,28 +1297,18 @@ Dripli Slider Area Style
 }
 
 .slider-item-bg-1 {
-  background-image: url(../img/slider/1.jpg);
+  background-image: url(../img/custom/slider1.jpg);
 }
 
 .slider-item-bg-2 {
-  background-image: url(../img/slider/2.jpg);
+  background-image: url(../img/custom/slider2.jpg);
 }
 
 .slider-item-bg-3 {
-  background-image: url(../img/slider/3.jpg);
+  background-image: url(../img/custom/slider3.jpg);
 }
 
-.slider-item-bg-4 {
-  background-image: url(../img/slider/4.jpg);
-}
 
-.slider-item-bg-5 {
-  background-image: url(../img/slider/5.jpg);
-}
-
-.slider-item-bg-6 {
-  background-image: url(../img/slider/6.jpg);
-}
 
 /*
 High Quality Servicer Area Style
